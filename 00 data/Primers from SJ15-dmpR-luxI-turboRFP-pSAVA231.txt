@@ -1,0 +1,5 @@
+Fragment.FOR	cgcctaggccgcggccgcgcctagccttcgat     	
+Fragment.REV	cccagtcacgacgcggccgctctgtgccccagtttgc	
+R24         	cgccagggttttcccagtcacgac             	
+Vector.FOR  	ctagcaaactggggcacagagcggccgcgtcg     	
+Vector.REV  	aaatcggcatcgaaggctaggcgcggccgcgg     	

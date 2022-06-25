@@ -1,0 +1,41 @@
+1. Singh, J. S., Abhilash, P., Singh, H., Singh, R. P., and Singh, D. (2011) Genetically engineered bacteria: an emerging tool for environmental remediation and future research perspectives, Gene 480, 1-9.
+2. Zhang, F., and Keasling, J. (2011) Biosensors and their applications in microbial metabolic engineering, Trends Microbiol. 19, 323-329.
+3. Park, M., Tsai, S.-L., & Chen, W. (2013). Microbial biosensors: engineered microorganisms as the sensing machinery. Sensors (Basel, Switzerland), 13(5), 5777?5795. https://doi.org/10.3390/s130505777
+4. Shingler, V. (2003). Minireview Integrated regulation in response to aromatic compounds : from signal sensing to attractive behaviour, 5, 1226?1241. https://doi.org/10.1046/j.1462-2920.2003.00472.x
+5. Garmendia, J., de las Heras, A., Galvao, T. C., & de Lorenzo, V. (2008). Tracing explosives in soil with transcriptional regulators of Pseudomonas putida evolved for responding to nitrotoluenes. Microbial Biotechnology, 1(3), 236?246. https://doi.org/10.1111/j.1751-7915.2008.00027.x
+6. Choi, S.-L., Rha, E., Lee, S. J., Kim, H., Kwon, K., Jeong, Y.-S., Rhee, Y. H., Song, J. J., Kim, H.-S., and Lee, S.-G. (2013) Toward a generalized and high-throughput enzyme screening system based on artificial genetic circuits, ACS Synth. Biol. 3, 163-171.
+7. Belkin, S., Yagur-Kroll, S., Kabessa, Y., Korouma, V., Septon, T., Anati, Y., … Agranat, A. J. (2017). Remote detection of buried landmines using a bacterial sensor. Nature Biotechnology, 35(4), 308?310. https://doi.org/10.1038/nbt.3791
+8. Roda, A., Mirasoli, M., Michelini, E., Di Fusco, M., Zangheri, M., Cevenini, L., … Simoni, P. (2016). Progress in chemical luminescence-based biosensors: A critical review. Biosensors and Bioelectronics, 76, 164?179. https://doi.org/10.1016/j.bios.2015.06.017
+9. Gu, M. B., Choi, S. H., & Kim, S. W. (2001). Some observations in freeze-drying of recombinant bioluminescent Escherichia coli for toxicity monitoring. Journal of Biotechnology, 88(2), 95–105. Retrieved from http://www.ncbi.nlm.nih.gov/pubmed/11403844
+10.	Ellis, J. M., and Wolfgang, M. J. (2012) A genetically encoded metabolite sensor for malonyl-CoA, Chemistry & biology 19, 1333-1339.
+11.	Courbet, A., Endy, D., Renard, E., Molina, F., and Bonnet, J. (2015) Detection of pathological biomarkers in human clinical samples via amplifying genetic switches and logic gates, Sci. Transl. Med. 7, 289ra283-289ra283.
+12. Jha, R. K., Kern, T. L., Kim, Y., Tesar, C., Jedrzejczak, R., Joachimiak, A., & Strauss, C. E. M. (2016). A microbial sensor for organophosphate hydrolysis exploiting an engineered specificity switch in a transcription factor, 44(17), 8490?8500. https://doi.org/10.1093/nar/gkw687
+13. Wan, X., Volpetti, F., Petrova, E., French, C., Maerkl, S. J., & Wang, B. (2018). Cascaded amplifying circuits enable ultrasensitive cellular sensors for toxic metals. Nature Chemical Biology. https://doi.org/10.1038/s41589-019-0244-3
+14. Ceroni, F., Algar, R., Stan, G. B., & Ellis, T. (2015). Quantifying cellular capacity identifies gene expression designs with reduced burden. Nature Methods, 12(5), 415–418. https://doi.org/10.1038/nmeth.3339
+15. Wu, F., Menn, D. J., & Wang, X. (2014). Quorum-Sensing Crosstalk-Driven Synthetic Circuits: From Unimodality to Trimodality. Chemistry & Biology, 21(12), 1629?1638. https://doi.org/10.1016/j.chembiol.2014.10.008
+16. O’Neill, E., Ng, L. C., Sze, C. C., & Shingler, V. (1998). Aromatic ligand binding and intramolecular signalling of the phenol-responsive ??54-dependent regulator DmpR. Molecular Microbiology, 28, 131–141. https://doi.org/10.1046/j.1365-2958.1998.00780.x
+17. Silva-Rocha, R., Martínez-García, E., Calles, B., Chavarría, M., Arce-Rodríguez, A., De Las Heras, A., … De Lorenzo, V. (2013). The Standard European Vector Architecture (SEVA): A coherent platform for the analysis and deployment of complex prokaryotic phenotypes. Nucleic Acids Research, 41(D1), 666–675. https://doi.org/10.1093/nar/gks1119
+18. Lee, B. B., Ravindra, P., & Chan, E. S. (2013). Size and shape of calcium alginate beads produced by extrusion dripping. Chemical Engineering and Technology, 36(10), 1627–1642. https://doi.org/10.1002/ceat.201300230
+
+
+
+5.	Eggeling, L., Bott, M., and Marienhagen, J. (2015) Novel screening methods?biosensors, Curr. Opin. Biotechnol. 35, 30-36.
+7.	Kelwick, R., MacDonald, J. T., Webb, A. J., and Freemont, P. (2014) Developments in the tools and methodologies of synthetic biology, Front. Bioeng. Biotechnol. 2.
+9.	Lee, D.-H., Choi, S.-L., Rha, E., Kim, S. J., Yeom, S.-J., Moon, J.-H., and Lee, S.-G. (2015) A novel psychrophilic alkaline phosphatase from the metagenome of tidal flat sediments, BMC Biotechnol. 15, 1.
+10.	Heipieper, H.-J., Keweloh, H., and Rehm, H.-J. (1991) Influence of phenols on growth and membrane permeability of free and immobilized Escherichia coli, Appl. Environ. Microbiol. 57, 1213-1217.
+11.	Simon, C., and Daniel, R. (2011) Metagenomic analyses: past and future trends, Appl. Environ. Microbiol. 77, 1153-1161.
+12.	Urban, A., Eckermann, S., Fast, B., Metzger, S., Gehling, M., Ziegelbauer, K., Rubsamen-Waigmann, H., and Freiberg, C. (2007) Novel whole-cell antibiotic biosensors for compound discovery, Appl. Environ. Microbiol. 73, 6436-6443.
+13.	Lee, S.-G., Hong, S.-P., Song, J. J., Kim, S.-J., Kwak, M.-S., and Sung, M.-H. (2006) Functional and structural characterization of thermostable D-amino acid aminotransferases from Geobacillus spp, Appl. Environ. Microbiol. 72, 1588-1594.
+14.	Liu, L., Yoshimura, T., Endo, K., Kishimoto, K., Fuchikami, Y., MANNING, J. M., ESAKI, N., and SODA, K. (1998) Compensation for d-glutamate auxotrophy of Escherichia coli WM335 by d-amino acid aminotransferase gene and regulation of murI expression, Biosci., Biotechnol., Biochem. 62, 193-195.
+15.	Burchhardt, G., Schmidt, I., Cuypers, H., Petruschka, L., Volker, A., and Herrmann, H. (1997) Studies on spontanous promoter-up mutations in the transcriptional activator-encoding gene phlR and their effects on the degradation of phenol in Escherichia coli and Pseudomonas putida, Mol. Gen. Genet. 254, 539-547.
+16.	Uchiya, K.-I., Tohsuji, M., Nikai, T., Sugihara, H., and Sasakawa, C. (1996) Identification and characterization of phoN-Sf, a gene on the large plasmid of Shigella flexneri 2a encoding a nonspecific phosphatase, Journal of bacteriology 178, 4548-4554.
+17.	van Herk, T., Hartog, A. F., van der Burg, A. M., and Wever, R. (2005) Regioselective phosphorylation of carbohydrates and various alcohols by bacterial acid phosphatases; probing the substrate specificity of the enzyme from Shigella flexneri, Advanced Synthesis & Catalysis 347, 1155-1162.
+18.	Ryu, S. H., Chung, B. S., Park, M., Lee, S. S., Lee, S.-S., and Jeon, C. O. (2008) Rheinheimera soli sp. nov., a gammaproteobacterium isolated from soil in Korea, International journal of systematic and evolutionary microbiology 58, 2271-2274.
+19.	Thaller, M. C., Berlutti, F., Schippa, S., Iori, P., Passariello, C., and Rossolini, G. M. (1995) Heterogeneous patterns of acid phosphatases containing low-molecular-mass polypeptides in members of the family Enterobacteriaceae, International Journal of Systematic and Evolutionary Microbiology 45, 255-261.
+20.	Coughlan, L. M., Cotter, P. D., Hill, C., and Alvarez-Ordonez, A. (2015) Biotechnological applications of functional metagenomics in the food and pharmaceutical industries, Front. Microbiol. 6.
+21.	Niehaus, F., Gabor, E., Wieland, S., Siegert, P., Maurer, K.-H., and Eck, J. (2011) Enzymes for the laundry industries: tapping the vast metagenomic pool of alkaline proteases, Microb. Biotechnol. 4, 767-776.
+22.	Howe, A. C., Jansson, J. K., Malfatti, S. A., Tringe, S. G., Tiedje, J. M., and Brown, C. T. (2014) Tackling soil diversity with the assembly of large, complex metagenomes, Proc. Natl. Acad. Sci. 111, 4904-4909.
+23.	Scholz, M. B., Lo, C.-C., and Chain, P. S. (2012) Next generation sequencing and bioinformatic bottlenecks: the current state of metagenomic data analysis, Curr. Opin. Biotechnol. 23, 9-15.
+
+
+13. Pardee, K., Green, A. A., Takahashi, M. K., Braff, D., Lambert, G., Lee, J. W., … Collins, J. J. (2016). Rapid, Low-Cost Detection of Zika Virus Using Programmable Biomolecular Components. Cell, 165(5), 1255?1266. https://doi.org/10.1016/j.cell.2016.04.059

@@ -1,0 +1,18 @@
+1. seed 1% 로 sj11, sj1 혼합 비율별 test (그림 2D와 같은 그림)
+(옵션) 2. seed 1%/4% 로 red / green 최적 혼합 비율 tecan (30도)
+3. freeze 방법에 따른 결과 (ok)
+(옵션) 4. tomato로 모두 바꿈
+5. ecoli - ecoli vs. pseudo - ecoli (freeze 비율별)
+6. wt red 만 pUC/SEVA plasmid, Ecoli, Pseudo 셀 준비 
+
+내일 (22)
+plasmid 준비, primer 주문
+cell seed 
+저녁에 비율별 실험 (14ml tube)
+sequence 확인
+sj1, sj11, sj15 transformation
+
+
+
+
+
